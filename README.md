@@ -7,7 +7,7 @@
 ## Uso
 
 ```powershell
-irm https://fwu.spyflow.tech/fyw.ps1 | iex
+irm https://fwu.spyflow.tech/ | iex
 ```
 
 ## Funcionamiento
